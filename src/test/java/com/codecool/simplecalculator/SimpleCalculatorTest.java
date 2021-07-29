@@ -66,4 +66,5 @@ public class SimpleCalculatorTest {
         Assertions.assertEquals((Float)(a / b), calculator.calc("/", a, b));
     }
 
+    //this is just a comment
 }
